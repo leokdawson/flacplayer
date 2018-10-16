@@ -1,0 +1,1 @@
+"""Parse fLaC metadata without any intial convertion to binary strings"""
